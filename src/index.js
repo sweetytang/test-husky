@@ -2,4 +2,4 @@ function test() {
     console.log(a);
 }
 
-const                 a = 'a';
+const                   a = 'a';
