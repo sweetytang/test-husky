@@ -3,3 +3,5 @@ function test() {
 }
 
 const                   a = 'a';
+
+console.log(b          );
